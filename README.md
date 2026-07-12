@@ -121,7 +121,7 @@ Lexicon limitations: The uncertainty lexicon was constructed theoretically rathe
 The analysis presented here presents some early evidence that the adoption of LLMs is resulting in measurable signs of cognitive offloading in the context of online communication. There has been a doubling of uncertainty expressions, increased verbosity when asking for help, transactional emotional expression, and even the emergence of an entirely new form of linguistic behavior: the explicit reference to seeking advice from AI. All this is occurring stealthily, largely under the radar of the people experiencing the change.
 
 With the continued increase in the capability of LLMs and their integration into our everyday lives, gaining an understanding of the behavioral impacts of LLM adoption is ever more important — not to make arguments about the technology, but rather to be more intentional in using the technology. 
-
+ work_breakdown.png               # Word level uncertainty breakdown
 7. Repository Structure
 
 cognitive-offloading-llm/
@@ -130,8 +130,8 @@ cognitive-offloading-llm/
 ├── README.md                        # This file
 ├── cognitive_offloading_results.png # Main sentiment & uncertainty charts
 ├── comment_length.png               # Comment length distribution
-├── work_breakdown.png               # Word level uncertainty breakdown
-└── polarization.png                 # Emotional polarization analysis
+├── polarization.png                 # Emotional polarization analysis
+└── work_breakdown.png               # Word level uncertainty breakdown
 
 
 8. References & Further Reading
